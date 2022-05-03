@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - I'm Kiara, a first-year undegraduate pursuing a B.Sc in Physics at St. Xavier's College :milky_way: and B.Sc in Data Science and Programming at the Indian Institute of Technology Madras. :computer:
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Astrophysics%20Enthusiast;Experience%20developing%20websites;Currently%20studying%20Machine%20Learning&font=Monoid%20Code&center=true&width=750&height=45&color=c8b6ff&vCenter=true&size=30"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Astrophysics%20and%20Data%20Science%20Enthusiast;Developed%20several%20websites%20and%20apps;Learning%20programming,%20ML%20and%20blockchain&font=Monoid%20Code&center=true&width=800&height=45&color=c8b6ff&vCenter=true&size=30"></a>
 </p>
 
 -  :pushpin: I am interested in Astrophysics, Data Science, Mahine Learning, Web and App development. Some of my past projects include building a website for a Film and Video Production House - [Band Box Productions](https://www.bandboxproductions.com), a website to provide women with healthcare support [FemCare](https://github.com/kiara-jacob/FemCare-SheHacks5), an app in React Native [Solidarity](https://github.com/kiara-jacob/Solidarity-HackMerced7) and an analysis of crimes against women in India with Python [Crimes Against Women Data Analysis](https://github.com/kiara-jacob/CrimeDataAnalysis).
