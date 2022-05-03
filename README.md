@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## :low_brightness: My top projects
 <p align="center">
   <a href="https://github.com/kiara-jacob/FemCare-SheHacks5"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiara-jacob&repo=FemCare-SheHacks5&theme=react&border_color=61dafb&border_radius=10" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/kiara-jacob/BandBoxProductions-Website"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiara-jacob&repo=BandBoxProductions-Website&theme=react&border_color=61dafb&border_radius=10" alt="readme-typing-svg"></a>
+  <a href="https://github.com/kiara-jacob/BandBoxProductions"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiara-jacob&repo=BandBoxProductions&theme=react&border_color=61dafb&border_radius=10" alt="readme-typing-svg"></a>
   <a href="https://github.com/kiara-jacob/Solidarity-HackMerced7"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiara-jacob&repo=Solidarity-HackMerced7&theme=react&border_color=61dafb&border_radius=10" alt="LaTeX-Gboard-Dictionary"></a>
   <a href="https://github.com/kiara-jacob/LightHouse-HackViolet"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=kiara-jacob&repo=Lighthouse-HackViolet&theme=react&border_color=61dafb&border_radius=10" alt="custom-icon-badges"></a>
   <a href="https://github.com/kiara-jacob/TravelHer-StarHacks2"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiara-jacob&repo=TravelHer-StarHacks2&theme=react&border_color=61dafb&border_radius=10" alt="unicode-formatter"></a>
