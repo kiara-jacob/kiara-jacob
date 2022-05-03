@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   - 2nd Place Overall (SheHacks 5)
   - Most Creative Use of Twilio API (HackMerced 7)
 
-## :high_brightness: My top projects
+## :low_brightness: My top projects
 <p align="center">
   <a href="https://github.com/kiara-jacob/FemCare-SheHacks5"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiara-jacob&repo=FemCare-SheHacks5&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/kiara-jacob/BandBoxProductions-Website"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiara-jacob&repo=BandBoxProductions-Website&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/kiara-jacob"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
   
