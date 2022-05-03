@@ -31,6 +31,21 @@ Here are some ideas to get you started:
   - 1st Place for Best Hack to Support Women (HackViolet 2022)
   - 2nd Place Overall (SheHacks 5)
   - Most Creative Use of Twilio API (HackMerced 7)
+
+## :high_brightness: My top projects
+<p align="center">
+  <a href="https://github.com/kiara-jacob/FemCare-SheHacks5"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiara-jacob&repo=FemCare-SheHacks5&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/kiara-jacob/BandBoxProductions-Website"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiara-jacob&repo=BandBoxProductions-Website&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/kiara-jacob/Solidarity-HackMerced7"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiara-jacob&repo=Solidarity-HackMerced7&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
+  <a href="https://github.com/kiara-jacob/LightHouse-HackViolet"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=kiara-jacob&repo=Lighthouse-HackViolet&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/kiara-jacob/TravelHer-StarHacks2"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiara-jacob&repo=TravelHer-StarHacks2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
+  <a href="https://github.com/kiara-jacob/CrimeDataAnalysis"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiara-jacob&repo=CrimeDataAnalysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
   
 - :page_facing_up: You can have a look at my [CV](https://drive.google.com/file/d/10dFVYG--0eCDTEO7z6Z0FOK54ahTPq4v/view) for more information.
 
