@@ -46,7 +46,7 @@ I'm currently a second-year undegraduate pursuing a B.Sc in Physics :milky_way: 
    <a href="https://github.com/kiara-jacob?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
  </p>
 
- - :page_facing_up: You can have a look at my [CV](https://drive.google.com/file/d/10dFVYG--0eCDTEO7z6Z0FOK54ahTPq4v/view) for more information.
+ - :page_facing_up: You can have a look at my [CV](https://drive.google.com/file/d/1PAaHaOEmcfpHQIwxtyl8jgHEc79DuUSf/view?usp=sharing) for more information.
 
  - :handshake:  Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kiara-jacob/)!
  - :exclamation: For any other information: [Linktree](https://linktr.ee/kiarajacob).
