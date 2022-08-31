@@ -49,4 +49,3 @@ I'm currently a second-year undegraduate pursuing a B.Sc in Physics :milky_way: 
  - :page_facing_up: You can have a look at my [CV](https://drive.google.com/file/d/1PAaHaOEmcfpHQIwxtyl8jgHEc79DuUSf/view?usp=sharing) for more information.
 
  - :handshake:  Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kiara-jacob/)!
- - :exclamation: For any other information: [Linktree](https://linktr.ee/kiarajacob).
