@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm Kiara, a second-year undegraduate pursuing a B.Sc in Physics :milky_way: and B.Sc in Data Science and Programming at IITM. :computer:
+- I'm Kiara, a second-year undegraduate pursuing a B.Sc in Physics from St. Xavier's College :milky_way: and B.Sc in Data Science and Programming at IITM. :computer:
 
  <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Astrophysics%20and%20Coding%20Enthusiast;websites%20and%20mobile%20apps%20developer;Currently%20studying%20data%20science%20and%20ML&font=Monoid%20Code&center=true&width=800&height=45&color=c8b6ff&vCenter=true&size=30"></a>
