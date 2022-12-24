@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
  -  :telescope: I am very interested in Astrophysics research especially combining it with Data Analysis and ML. I have performed data visualization and analysis on data sets from TESS, GAIA and SDSS. I'm also working on Gravitational Wave Analysis.
 
- - :point_right:  I’m looking for ** Astrophysics or Data Science research opportunities**. I’m interested in using my skills to help people and make a difference.
+ - :point_right:  I’m looking for **Astrophysics or Data Science research opportunities**. I’m interested in using my skills to help people and make a difference.
 
  - :star: The acheivements I'm proud of include: 
    - 1st Place for Best Hack to Support Women (HackViolet 2022)
