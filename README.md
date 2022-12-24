@@ -46,6 +46,6 @@ Here are some ideas to get you started:
    <a href="https://github.com/kiara-jacob?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
  </p>
 
- - :page_facing_up: You can have a look at my [CV](https://drive.google.com/file/d/1PAaHaOEmcfpHQIwxtyl8jgHEc79DuUSf/view?usp=sharing) for more information.
+ - :page_facing_up: You can have a look at my [CV](https://drive.google.com/file/d/1bO7MBVsMg-WTiyj7tKoSOKnunjDzc2Tx/view?usp=sharing) for more information.
 
  - :handshake:  Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kiara-jacob/)!
