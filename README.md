@@ -15,22 +15,13 @@ Here are some ideas to get you started:
 
 - I'm Kiara, a third-year undegraduate pursuing a B.Sc in Physics from St. Xavier's College :milky_way: and a Diploma in Data Science and Programming at IIT Madras. :computer:
 
- -  :pushpin: I am interested in studying Astrophysics using Data Science, Mahine Learning and other computational methods.
- 
- -  Some of my past projects include building a website for a Film and Video Production House - [Band Box Productions](https://www.bandboxproductions.com), a website to provide women with healthcare support [FemCare](https://github.com/kiara-jacob/FemCare-SheHacks5), an app in React Native [Solidarity](https://github.com/kiara-jacob/Solidarity-HackMerced7) and an analysis of crimes against women in India with Python [Crimes Against Women Data Analysis](https://github.com/kiara-jacob/CrimeDataAnalysis).
- 
+ -  :pushpin: I am interested in studying Astrophysics using Data Science, Mahine Learning and other computational methods. I have performed data visualization and analysis on data sets from TESS, GAIA and SDSS in the past.
+
  - I was also selected to do a research internship as part of the University of Tokyo Research Internship Program (UTRIP) where I worked on designing a telescope to probe the circular polarization component of the Cosmic Microwave Background Radiation (CMBR). More specifically, I worked on Signal Generation and Reconstruction in Python using modules like Healpy, PySM and pandas. I designed toy models with PySM to generate the data and then used mathematical models to reconstruct the data after including detector noise (modeled after LITEBIRD), detector motion, pointing vector, etc. ([Report and Results](https://drive.google.com/file/d/1JOxO1SD5g8JXkvai_D-uHZHKcoDAyUsh/view?usp=sharing))
 
- -  :telescope: I am very interested in Astrophysics research especially combining it with Data Analysis and ML. I have performed data visualization and analysis on data sets from TESS, GAIA and SDSS. I'm also working on Gravitational Wave Analysis.
+ -  Some of my past projects include building a website for a Film and Video Production House - [Band Box Productions](https://www.bandboxproductions.com), a website to provide women with healthcare support [FemCare](https://github.com/kiara-jacob/FemCare-SheHacks5), an app in React Native [Solidarity](https://github.com/kiara-jacob/Solidarity-HackMerced7) and an analysis of crimes against women in India with Python [Crimes Against Women Data Analysis](https://github.com/kiara-jacob/CrimeDataAnalysis).
 
- - :point_right:  I’m looking for **Astrophysics or Data Science research opportunities**.
-
- - :star: The acheivements I'm proud of include: 
-   - 1st Place for Best Hack to Support Women (HackViolet 2022)
-   - 2nd Place Overall (SheHacks 5)
-   - Most Creative Use of Twilio API (HackMerced 7)
-
- ## :low_brightness: My top projects
+ ## :low_brightness: My past projects
  <p align="center">
    <a href="https://github.com/kiara-jacob/FemCare-SheHacks5"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiara-jacob&repo=FemCare-SheHacks5&theme=react&border_color=61dafb&border_radius=10" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/kiara-jacob/BandBoxProductions"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiara-jacob&repo=BandBoxProductions&theme=react&border_color=61dafb&border_radius=10" alt="readme-typing-svg"></a>
