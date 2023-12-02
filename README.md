@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 
 - I'm Kiara, a third-year undegraduate pursuing a B.Sc in Physics from St. Xavier's College :milky_way: and a Diploma in Data Science and Programming at IIT Madras. :computer:
 
- <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Astrophysics%20and%20Coding%20Enthusiast;websites%20and%20mobile%20apps%20developer;Currently%20studying%20data%20science%20and%20ML&font=Monoid%20Code&center=true&width=800&height=45&color=c8b6ff&vCenter=true&size=30"></a>
- </p>
-
  -  :pushpin: I am interested in Astrophysics, Data Science, Mahine Learning, Web and App development. Some of my past projects include building a website for a Film and Video Production House - [Band Box Productions](https://www.bandboxproductions.com), a website to provide women with healthcare support [FemCare](https://github.com/kiara-jacob/FemCare-SheHacks5), an app in React Native [Solidarity](https://github.com/kiara-jacob/Solidarity-HackMerced7) and an analysis of crimes against women in India with Python [Crimes Against Women Data Analysis](https://github.com/kiara-jacob/CrimeDataAnalysis).
  
  - I was also selected to do a research internship as part of the University of Tokyo Research Internship Program (UTRIP) where I worked on designing a telescope to probe the circular polarization component of the Cosmic Microwave Background Radiation (CMBR). More specifically, I worked on Signal Generation and Reconstruction in Python using modules like Healpy, PySM and pandas. I designed toy models with PySM to generate the data and then used mathematical models to reconstruct the data after including detector noise (modeled after LITEBIRD), detector motion, pointing vector, etc. ([Report and Results](https://drive.google.com/file/d/1JOxO1SD5g8JXkvai_D-uHZHKcoDAyUsh/view?usp=sharing))
