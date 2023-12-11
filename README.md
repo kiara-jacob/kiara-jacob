@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm Kiara, a third-year undegraduate pursuing a B.Sc in Physics from St. Xavier's College :milky_way: and a Diploma in Data Science and Programming at IIT Madras. :computer:
+- I'm Kiara, a third-year undegraduate pursuing a B.Sc in Physics from St. Xavier's College and a Diploma in Data Science and Programming at IIT Madras. 
 
  -  :pushpin: I am interested in studying Astrophysics using Data Science, Mahine Learning and other computational methods. I have performed data visualization and analysis on data sets from TESS, GAIA and SDSS in the past.
 
